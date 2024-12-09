@@ -9,21 +9,21 @@ Welcome to my project on solar radiation measurement data analysis! In this proj
 The dataset consists of environmental measurements that include the following parameters:
 
 Timestamp (yyyy-mm-dd hh:mm): The date and time of each observation.
-GHI (W/m²): Global Horizontal Irradiance, representing total solar radiation on a horizontal surface.
-DNI (W/m²): Direct Normal Irradiance, the solar radiation received perpendicular to the sun's rays.
-DHI (W/m²): Diffuse Horizontal Irradiance, indicating solar radiation received indirectly.
-ModA (W/m²) & ModB (W/m²): Measurements from two different modules or sensors similar to irradiance.
-Tamb (°C): Ambient temperature in degrees Celsius.
-RH (%): Relative humidity as a percentage.
-WS (m/s): Wind speed in meters per second.
-WSgust (m/s): Maximum wind gust speed.
-WSstdev (m/s): Standard deviation of wind speed.
-WD (°N): Wind direction measured in degrees from north.
-WDstdev: Standard deviation of wind direction.
-BP (hPa): Barometric pressure in hectopascals.
-Cleaning (1 or 0): Indicates if cleaning occurred for the sensors.
-Precipitation (mm/min): Rate of precipitation measured in millimeters per minute.
-TModA (°C) & TModB (°C): Temperatures of Modules A and B.
+a. GHI (W/m²): Global Horizontal Irradiance, representing total solar radiation on a horizontal surface.
+b. DNI (W/m²): Direct Normal Irradiance, the solar radiation received perpendicular to the sun's rays.
+c. DHI (W/m²): Diffuse Horizontal Irradiance, indicating solar radiation received indirectly.
+d. ModA (W/m²) & ModB (W/m²): Measurements from two different modules or sensors similar to irradiance.
+e. Tamb (°C): Ambient temperature in degrees Celsius.
+f. RH (%): Relative humidity as a percentage.
+g. WS (m/s): Wind speed in meters per second.
+h. WSgust (m/s): Maximum wind gust speed.
+i. WSstdev (m/s): Standard deviation of wind speed.
+j. WD (°N): Wind direction measured in degrees from north.
+k. WDstdev: Standard deviation of wind direction.
+l. BP (hPa): Barometric pressure in hectopascals.
+m. Cleaning (1 or 0): Indicates if cleaning occurred for the sensors.
+n. Precipitation (mm/min): Rate of precipitation measured in millimeters per minute.
+o. TModA (°C) & TModB (°C): Temperatures of Modules A and B.
 
 # Analysis Approach
 
