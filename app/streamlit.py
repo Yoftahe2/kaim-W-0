@@ -32,9 +32,9 @@ def main():
 
     # Raw GitHub URLs
     data_files = {
-        'Benin Malanville': 'https://github.com/Yoftahe2/kaim-W-0/blob/master/data/benin-malanville.csv',
-        'Sierra Leone Bumbuna': 'https://github.com/Yoftahe2/kaim-W-0/blob/master/data/sierraleone-bumbuna.csv',
-        'Togo Dapaong QC': 'https://github.com/Yoftahe2/kaim-W-0/blob/master/data/togo-dapaong_qc.csv'
+        'Benin Malanville': 'https://raw.githubusercontent.com/Yoftahe2/kaim-W-0/refs/heads/master/data/benin-malanville.csv',
+        'Sierra Leone Bumbuna': 'https://raw.githubusercontent.com/Yoftahe2/kaim-W-0/refs/heads/master/data/sierraleone-bumbuna.csv',
+        'Togo Dapaong QC': 'https://raw.githubusercontent.com/Yoftahe2/kaim-W-0/refs/heads/master/data/togo-dapaong_qc.csv'
     }
 
     # Dropdown for selecting data files
