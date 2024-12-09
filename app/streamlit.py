@@ -155,7 +155,7 @@ def main():
                 
                 </style>
                 <div class="footer">
-                    <p>Developed by Biruk Bizuayehu</p>
+                    <p>Developed by Yoftahe Tesfaye</p>
                 </div>
                 """,
                 unsafe_allow_html=True
